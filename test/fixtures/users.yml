@@ -4,3 +4,10 @@ derek:
   email: "dszeto@gmail.com"
   profile_name: "dszeto"
   encrypted_password: "$2a$10$8uCZ9wCTsFoqa0aIfpssne4qtchcpqhepdU5WylZwh4GBAkgFWEYe"
+
+jim:
+  first_name: "jim"
+  last_name: "brown"
+  email: "jim@gmail.com"
+  profile_name: "jbrown"
+  encrypted_password: "$2a$10$8uCZ9wCTsFoqa0aIfpssne4qtchcpqhepdU5WylZwh4GBAkgFWEYe"
